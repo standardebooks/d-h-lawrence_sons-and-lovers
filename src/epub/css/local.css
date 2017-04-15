@@ -5,6 +5,11 @@ abbr.name{
 	white-space: nowrap;
 }
 
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
