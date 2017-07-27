@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/d-h-lawrence/sons-and-lovers</dc:identifier>
 		<dc:date>2017-05-06T19:42:32Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:20:40Z</meta>
-		<meta property="se:revision-number">11</meta>
+		<meta property="dcterms:modified">2017-07-27T20:10:12Z</meta>
+		<meta property="se:revision-number">12</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,9 +35,9 @@
 		<dc:description id="description">A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt;, a story of working-class England, is D. H. Lawrence’s third novel. It went through various drafts, and was titled “Paul Morel” until the final draft, before being published and met with an indifferent reaction from contemporary critics.  Modern critics now consider it to be D. H. Lawrence’s masterpiece, with the Modern Library placing it ninth in its “100 Best English-Language Novels of the 20th Century.”&lt;/p&gt;
-			&lt;p&gt;The novel follows the Morels, a family living in a coal town, and headed by a passionate but boorish miner.  His wife, originally from a refined family, is dragged down by Morel’s classlessness, and finds her life’s joy in her children.  As the children grow up and start leading lives of their own, they struggle against their mother’s emotional drain on them.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt; was written during a period in Lawrence’s life when his own mother was gravely ill.  Its exploration of the Oedipal instinct, frank depiction of working-class household unhappiness and violence, and accurate and colorful depiction of Nottinghamshire dialect, make it a fascinating window into the life of people not often chronicled in fiction of the day.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt;, a story of working-class England, is D. H. Lawrence’s third novel. It went through various drafts, and was titled “Paul Morel” until the final draft, before being published and met with an indifferent reaction from contemporary critics. Modern critics now consider it to be D. H. Lawrence’s masterpiece, with the Modern Library placing it ninth in its “100 Best English-Language Novels of the 20th Century.”&lt;/p&gt;
+			&lt;p&gt;The novel follows the Morels, a family living in a coal town, and headed by a passionate but boorish miner. His wife, originally from a refined family, is dragged down by Morel’s classlessness, and finds her life’s joy in her children. As the children grow up and start leading lives of their own, they struggle against their mother’s emotional drain on them.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt; was written during a period in Lawrence’s life when his own mother was gravely ill. Its exploration of the Oedipal instinct, frank depiction of working-class household unhappiness and violence, and accurate and colorful depiction of Nottinghamshire dialect, make it a fascinating window into the life of people not often chronicled in fiction of the day.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
