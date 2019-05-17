@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Sons and Lovers</dc:title>
 		<meta property="file-as" refines="#title">Sons and Lovers</meta>
 		<dc:subject id="subject-1">Autobiographical fiction</dc:subject>
@@ -35,21 +35,25 @@
 		<dc:subject id="subject-4">Bildungsromans</dc:subject>
 		<dc:subject id="subject-5">Young men -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Working class families -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/217</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/217</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/217</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/217</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/217</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/217</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85048066</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh86004353</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2003003087</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008114024</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008113498</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt;, a story of working-class England, is D. H. Lawrence’s third novel. It went through various drafts, and was titled “Paul Morel” until the final draft, before being published and met with an indifferent reaction from contemporary critics. Modern critics now consider it to be D. H. Lawrence’s masterpiece, with the Modern Library placing it ninth in its “100 Best English-Language Novels of the 20th Century.”&lt;/p&gt;
 			&lt;p&gt;The novel follows the Morels, a family living in a coal town, and headed by a passionate but boorish miner. His wife, originally from a refined family, is dragged down by Morel’s classlessness, and finds her life’s joy in her children. As the children grow up and start leading lives of their own, they struggle against their mother’s emotional drain on them.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt; was written during a period in Lawrence’s life when his own mother was gravely ill. Its exploration of the Oedipal instinct, frank depiction of working-class household unhappiness and violence, and accurate and colorful depiction of Nottinghamshire dialect, make it a fascinating window into the life of people not often chronicled in fiction of the day.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/217</dc:source>
 		<dc:source>https://books.google.com/books?id=4fpDG9i5TSwC</dc:source>
