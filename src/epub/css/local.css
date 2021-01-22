@@ -30,10 +30,6 @@ figure img{
 	max-width: 100%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 #heart img{
 	width: 10em;
 }
