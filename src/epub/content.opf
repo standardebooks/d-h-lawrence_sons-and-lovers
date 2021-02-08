@@ -51,6 +51,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">60</meta>
 		<dc:description id="description">A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt;, a story of working-class England, is &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;&lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence’s&lt;/a&gt; third novel. It went through various drafts, and was titled “Paul Morel” until the final draft, before being published and met with an indifferent reaction from contemporary critics. Modern critics now consider it to be &lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence’s masterpiece, with the Modern Library placing it ninth in its “100 Best English-Language Novels of the 20th Century.”&lt;/p&gt;
