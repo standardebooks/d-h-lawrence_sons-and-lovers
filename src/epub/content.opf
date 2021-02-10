@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">9</meta>
-		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">60</meta>
 		<dc:description id="description">A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:description>
