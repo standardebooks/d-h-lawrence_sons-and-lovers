@@ -73,8 +73,8 @@
 		<meta property="se:name.person.full-name" refines="#author">David Herbert Richards Lawrence</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/D_H_Lawrence</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79018450</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Édouard Manet</dc:contributor>
 		<meta property="file-as" refines="#artist">Manet, Édouard</meta>
