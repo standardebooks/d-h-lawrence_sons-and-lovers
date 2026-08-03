@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/d-h-lawrence/sons-and-lovers</dc:identifier>
 		<dc:date>2017-05-06T19:42:32Z</dc:date>
@@ -56,12 +56,12 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">60</meta>
-		<dc:description id="description">A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man from a working-class English coal miner’s family struggles to reconcile romantic and familial love.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt;, a story of working-class England, is &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;&lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence’s&lt;/a&gt; third novel. It went through various drafts, and was titled “Paul Morel” until the final draft, before being published and met with an indifferent reaction from contemporary critics. Modern critics now consider it to be &lt;abbr&gt;D. H.&lt;/abbr&gt; Lawrence’s masterpiece, with the Modern Library placing it ninth in its “100 Best English-Language Novels of the 20th Century.”&lt;/p&gt;
 			&lt;p&gt;The novel follows the Morels, a family living in a coal town, and headed by a passionate but boorish miner. His wife, originally from a refined family, is dragged down by Morel’s classlessness, and finds her life’s joy in her children. As the children grow up and start leading lives of their own, they struggle against their mother’s emotional drain on them.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Sons and Lovers&lt;/i&gt; was written during a period in Lawrence’s life when his own mother was gravely ill. Its exploration of the Oedipal instinct, frank depiction of working-class household unhappiness and violence, and accurate and colorful depiction of Nottinghamshire dialect, make it a fascinating window into the life of people not often chronicled in fiction of the day.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/217</dc:source>
 		<dc:source>https://books.google.com/books?id=4fpDG9i5TSwC</dc:source>
